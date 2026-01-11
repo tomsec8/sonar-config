@@ -1,1 +1,16 @@
-test
+{
+  "threat_feeds": [
+    "https://osint.bambenekconsulting.com/feeds/c2-ipmasterlist.txt",
+    "https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt",
+    "https://sslbl.abuse.ch/blacklist/sslipblacklist.txt",
+    "https://www.botvrij.eu/data/ioclist.ip-dst",
+    "https://urlhaus.abuse.ch/downloads/hostfile/",
+    "https://osint.digitalside.it/Threat-Intel/lists/latestips.txt",
+    "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/threatfox.ipset",
+    "https://rules.emergingthreats.net/blockrules/compromised-ips.txt",
+    "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset",
+    "https://www.dan.me.uk/torlist/"
+  ],
+  "suspicious_countries": ["CN", "RU", "IR", "KP"],
+  "suspicious_ports": [4444, 6667, 1337, 31337, 8888, 9999, 5552]
+}
