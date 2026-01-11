@@ -1,1 +1,23 @@
-test
+{
+  "mappings": {
+    "whatsapp.net": "WhatsApp",
+    "whatsapp.com": "WhatsApp",
+    "facebook.com": "Facebook",
+    "fbcdn.net": "Facebook",
+    "instagram.com": "Instagram",
+    "cdninstagram.com": "Instagram",
+    "tiktok.com": "TikTok",
+    "tiktokcdn.com": "TikTok",
+    "ttwstatic.com": "TikTok",
+    "telegram.org": "Telegram",
+    "t.me": "Telegram",
+    "google.com": "Google",
+    "googleapis.com": "Google",
+    "youtube.com": "YouTube",
+    "ytimg.com": "YouTube",
+    "snapchat.com": "Snapchat",
+    "discord.com": "Discord",
+    "signal.org": "Signal",
+    "zoom.us": "Zoom"
+  }
+}
