@@ -1,10 +1,7 @@
 {
   "threat_feeds": [
-    "https://sslbl.abuse.ch/blacklist/sslipblacklist.txt",
     "https://www.botvrij.eu/data/ioclist.ip-dst",
     "https://urlhaus.abuse.ch/downloads/hostfile/",
-    "https://osint.digitalside.it/Threat-Intel/lists/latestips.txt",
-    "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/threatfox.ipset",
     "https://rules.emergingthreats.net/blockrules/compromised-ips.txt",
     "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset",
     "https://www.dan.me.uk/torlist/"
