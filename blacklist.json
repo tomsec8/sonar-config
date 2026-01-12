@@ -1,6 +1,5 @@
 {
   "threat_feeds": [
-    "https://osint.bambenekconsulting.com/feeds/c2-ipmasterlist.txt",
     "https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt",
     "https://sslbl.abuse.ch/blacklist/sslipblacklist.txt",
     "https://www.botvrij.eu/data/ioclist.ip-dst",
