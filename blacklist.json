@@ -1,6 +1,5 @@
 {
   "threat_feeds": [
-    "https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt",
     "https://sslbl.abuse.ch/blacklist/sslipblacklist.txt",
     "https://www.botvrij.eu/data/ioclist.ip-dst",
     "https://urlhaus.abuse.ch/downloads/hostfile/",
