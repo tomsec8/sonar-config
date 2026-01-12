@@ -11,6 +11,6 @@
     "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset",
     "https://www.dan.me.uk/torlist/"
   ],
-  "suspicious_countries": ["CN", "RU", "IR", "KP"],
-  "suspicious_ports": [4444, 6667, 1337, 31337, 8888, 9999, 5552]
+  "suspicious_countries": ["IR","KP","SY","LB","IQ","YE","LY"],
+  "suspicious_ports": [4444, 6667, 1337, 31337, 8888, 9999, 5552, 1177, 1604, 5555, 2222]
 }
